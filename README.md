@@ -25,10 +25,14 @@ Git and Github Night (Freshman)
 3. Fork SACM repo 
     - Methods for getting code (clone, github desktop, download zip, etc.)
 
-4. Update repo 
-    - Introduce git graph structure
-    - clone repo
-    - make dev branch
+4. Clone Repo
+    - (Aside) Python virtual envs
+    - Clone repo
+
+5. Update repo 
+    - make bug fix branch
     - make changes (add, commit)
     - push
-    - perform pull request on official
+
+6. Pull Request
+
