@@ -11,10 +11,10 @@ if __name__ == '__main__':
 
     data_np = np.array(DATA)
     sum = data_np.sum()
-    mean = data_np.avgs()
+    mean = data_np.mean()
     std_dev = data_np.std()
 
-    print(f'Sum: {sum}\nmean: {mean}\nStd Deviation: {std_dev}')
+    print(f'Sum: {sum}\Mean: {mean}\nStd Deviation: {std_dev}')
 
     
 
