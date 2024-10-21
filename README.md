@@ -1,6 +1,6 @@
 # github-demo-fa24
 
-Git and Github Night (Freshman)
+Git and Github Night
 
 1. Introduce Git / Github
     - Version Control System and a Development Platform
