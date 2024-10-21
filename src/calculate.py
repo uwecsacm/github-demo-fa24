@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
     data_np = np.array(DATA)
     sum = data_np.sum()
-    mean = data_np.mean()
+    mean = data_np.avgs()
     std_dev = data_np.std()
 
     print(f'Sum: {sum}\nAverage: {mean}\nStd Deviation: {std_dev}')

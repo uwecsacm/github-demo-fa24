@@ -3,9 +3,9 @@
 Git and Github Night (Freshman)
 
 1. Introduce Git / Github
-    - Version Control System VS a Developer Platform
+    - Version Control System and a Development Platform
     - Open Source, Code base management, CI/CD
-    - What problem does git solve??
+    - What problem does git solve?? What about Github?
 
 2. Create Github accounts 
     - Give students an opportunity to make accounts
@@ -22,17 +22,17 @@ Git and Github Night (Freshman)
     - Braches (branch activity)
     - Codespaces
 
+4. Explore Git basics
+    - Init new repo, add, commit
+    - show git clone (and other methods for getting code)
+
 3. Fork SACM repo 
-    - Methods for getting code (clone, github desktop, download zip, etc.)
-
-4. Clone Repo
-    - (Aside) Python virtual envs
-    - Clone repo
-
-5. Update repo 
+    - use codespaces 
     - make bug fix branch
     - make changes (add, commit)
     - push
 
 6. Pull Request
-
+    - Merge conflicts
+    - Needs Approval
+    - Units tests
